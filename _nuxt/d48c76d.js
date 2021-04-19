@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{257:function(n,e,t){"use strict";t.r(e);var c=t(42),component=Object(c.a)({},(function(){var n=this,e=n.$createElement;return(n._self._c||e)("h1",[n._v("\n  this is a card by accessing "+n._s(n.$nuxt.$route.params)+"\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
