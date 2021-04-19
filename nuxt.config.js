@@ -1,12 +1,12 @@
 const path = require('path')
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: true,
+  ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/<repository-name>/'
+    base: '/<repository-name>/uahuynhh'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
