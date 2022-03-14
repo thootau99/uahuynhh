@@ -8,7 +8,7 @@
 
     <div class="flex-1 ml-4 my-0 md:mx-8 md:my-4 md:w-80">
       <h1 class="text-lg md:text-2xl">許皇琪<br class="block md:hidden"/><span class="text-sm md:text-xl md:ml-8">Web Developer</span></h1>
-      <span class="text-sm">使用 Rails 與 React, Vue 結合開發全端。</span>
+      <span class="text-sm">使用 NodeJS 與 React 結合開發全端。</span>
       <div class="w-full hidden md:block">
         <div class="flex my-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-auto mr-4 fill-current text-black dark:text-white" viewBox="0 0 20 20" fill="currentColor">

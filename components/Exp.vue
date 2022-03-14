@@ -22,6 +22,11 @@
         <p class="m-2 text-sm md:text-lg">工讀生</p>
         <p class="m-2 text-sm md:text-lg">2017-2019</p>
       </div>
+      <div class="flex justify-around">
+        <p class="m-2 text-sm md:text-lg">博睿科技股份有限公司<br class="block md:hidden"/><span class="mx-0 md:mx-4"></span></p>
+        <p class="m-2 text-sm md:text-lg">後端工程師</p>
+        <p class="m-2 text-sm md:text-lg">2021/05-現今</p>
+      </div>
     </div>
   </div>
 </template>

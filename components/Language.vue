@@ -22,9 +22,9 @@
   export default {
     data () {
       return {
-        lang: [{'context': 'Japanese (JLPT N4)', width:'75'}, 
-        {'context': 'English (TOEIC 620)', width:'69'},
-        {'context': 'Taiwanese', width:'95'},
+        lang: [{'context': 'Japanese (JLPT N4)', width:'60'}, 
+        {'context': 'English (TOEIC 620)', width:'60'},
+        {'context': 'Taiwanese', width:'85'},
         {'context': 'Mandrain', width:'80'},
         ],
       }

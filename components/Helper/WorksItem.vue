@@ -4,7 +4,7 @@
       <img class="h-48 md:h-64" :src="imgPathToURL(image)" alt=""/>
     </div>
     <div class="flex flex-shrink-1 flex-1 flex-col md:h-full md:p-4">
-      <h1 class="text-xl md:text-2xl"><a>{{title}}</a></h1>
+      <h1 class="text-xl md:text-2xl"><a :href="`${link}`">{{title}}</a></h1>
       <p class="whitespace-pre-wrap break-words text-sm md:text-lg">{{description}}</p>
     </div>
     <div class="break"></div>
@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  props: ['title', 'description', 'image', 'tags'],
+  props: ['title', 'link', 'description', 'image', 'tags'],
   methods: {
     imgPathToURL(path) {
       try{

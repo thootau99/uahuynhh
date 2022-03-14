@@ -42,22 +42,29 @@
   export default {
     data () {
       return {
-        frontend: [{'context': 'TypeScript', width:'80'}, 
-        {'context': 'ReactJS', width:'69'},
-        {'context': 'VueJS', width:'50'},
+        frontend: [
+        {'context': 'React', width:'69'},
+        {'context': 'Vue', width:'50'},
         {'context': 'Webpack', width:'30'},
         {'context': 'Electron', width:'50'},
-        {'context': 'Tailwind CSS', width:'70'},
+        {'context': 'Tailwind CSS', width:'50'},
         ],
         backend: [{'context': 'Flask', width:'60'},
-        {'context': 'Rails', width:'65'},
-        {'context': 'MySQL', width:'40'},
+        {'context': 'Rails', width:'40'},
+        {'context': 'Golang', width:'30'},
+        {'context': 'Python', width:'60'},
+        {'context': 'NodeJS', width:'75'},
+        {'context': 'MySQL', width:'75'},
         {'context': 'MongoDB', width:'60'},
         {'context': 'Firebase', width:'60'},
         ],
         other: [{'context': 'Flutter', width:'50'},
+        {'context': 'TypeScript', width:'60'}, 
           {'context': 'ReactNative', width:'20'},
+          {'context': 'Swift', width:'30'},
           {'context': 'Git', width:'70'},
+          {'context': 'Docker', width: '40'},
+          {'context': 'Terraform', width: '20'},
         ]
       }
     }
